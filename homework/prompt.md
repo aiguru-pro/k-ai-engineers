@@ -3,7 +3,7 @@
 
 ---
 
-## 🎯 Beginner Level Homework (Week 1)
+## 🎯 Beginner Level Homework 
 
 ### Assignment 1: Prompt Improvement Challenge
 **Task:** Take these basic prompts and engineer them for better results
@@ -47,7 +47,7 @@ Quality Standards: [validation and accuracy requirements]
 
 ---
 
-## 🎯 Intermediate Level Homework (Week 2)
+## 🎯 Intermediate Level Homework 
 
 ### Assignment 3: Chain-of-Thought Implementation
 **Task:** Build a systematic analysis system for competitive intelligence
@@ -94,7 +94,7 @@ Step 5: Strategic Impact Prediction
 
 ---
 
-## 🎯 Advanced Level Homework (Week 3)
+## 🎯 Advanced Level Homework 
 
 ### Assignment 5: Dynamic Prompt System
 **Task:** Build adaptive prompts based on user input and context
@@ -140,7 +140,7 @@ def generate_response(template, data, output_level):
 
 ---
 
-## 🎯 Real-World Application Projects (Week 4)
+## 🎯 Real-World Application Projects 
 
 ### Assignment 7: Mini-Application Development
 **Task:** Build a complete application using advanced prompt engineering
